@@ -12,23 +12,23 @@ This project is designed to demonstrate **real-world Data Analyst / Power BI Dev
 
 ### 🔹 Home – Bank Transaction Analysis Dashboard
 
-![Home Dashboard](images/1.png)
+![Home Dashboard](https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Home.png)
 
 ### 🔹 Accounts Analysis
 
-![Accounts Analysis](images/2.png)
+![Accounts Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Account.png)
 
 ### 🔹 Loan Analysis
 
-![Loan Analysis](images/3.png)
+![Loan Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Loan.png)
 
 ### 🔹 Transaction Analysis
 
-![Transaction Analysis](images/4.png)
+![Transaction Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Transaction.png)
 
 ### 🔹 Customer Analysis
 
-![Customer Analysis](images/5.png)
+![Customer Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Customer.png)
 
 ---
 
