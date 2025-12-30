@@ -16,19 +16,19 @@ This project is designed to demonstrate **real-world Data Analyst / Power BI Dev
 
 ### 🔹 Accounts Analysis
 
-![Accounts Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Account.png)
+![Accounts Analysis](https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Account.png)
 
 ### 🔹 Loan Analysis
 
-![Loan Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Loan.png)
+![Loan Analysis](https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Loan.png)
 
 ### 🔹 Transaction Analysis
 
-![Transaction Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Transaction.png)
+![Transaction Analysis](https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Transaction.png)
 
 ### 🔹 Customer Analysis
 
-![Customer Analysis]((https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Customer.png)
+![Customer Analysis](https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/raw/main/PowerBi/Bank%20dashboard/Customer.png)
 
 ---
 
