@@ -1,6 +1,6 @@
 # 🛍️ Vrinda Store – Annual Sales Analysis (2022)
 
-![Vrinda Store Dashboard]("0.Data-Analyst-Projects\Excel(vrinda store)\Vrinda Store dashboard img.png")
+![Vrinda Store Dashboard]("\Vrinda Store dashboard img.png")
 
 📊 **Tool Used:** Microsoft Excel (Advanced Dashboarding)
 
