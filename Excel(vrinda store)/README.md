@@ -45,8 +45,8 @@ This project is ideal for showcasing **Data Analyst / Business Analyst skills** 
 
 You can download the dataset used in this project from the link below:
 
-📁 **CSV File:**  
-[Download Vrinda Store Sales Dataset](https://raw.githubusercontent.com/Mit-Gitprofile/0.Data-Analyst-Projects/main/Excel(vrinda%20store)/vrinda_store_sales_data.csv)
+📁 **XLSX File:**  
+[Download Vrinda Store Sales Dataset](https://github.com/Mit-Gitprofile/0.Data-Analyst-Projects/blob/main/Excel(vrinda%20store)/Vrinda%20Store%20Dataset.xlsx)
 
 ---
 
